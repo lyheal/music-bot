@@ -1,6 +1,6 @@
 {
     "PRIFIX": "!",
-    "YOUTUBE_API_KEY": "AIzaSyCMvM3Ut5MnV5fAjW0TWjhbUiajrg3FZJo",
+    "YOUTUBE_API_KEY": "",
     "SOUNDCLOUD_CLIENT_ID": "",
     "MAX_PLAYLIST_SIZE": 10,
     "PRUNING": false,
