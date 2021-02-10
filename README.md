@@ -63,5 +63,21 @@ Discord = https://discord.gg/weMq44uN
 
 وبس لا تنسو تعلقو ب شي حلو
 
+واذا ما تعرف تسوي 
+API Key
+
+ذا فيديو يقلك كيف تسوي
+
+https://www.youtube.com/watch?v=SFafVAT-BKM
+
+بعد ما تعمل
+API Key
+
+تحطخ في
+
+youtube api key 
+في
+config.json
+
 بس
 
