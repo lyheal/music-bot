@@ -7,7 +7,11 @@ music bot by layer
 
 خلصت بوت الميوزك وراح اعطيكم بعض الملاحظات
 
-1- الكوماندات
+الكوماندات  
+
+
+
+
 !play
 !leave
 !np
@@ -21,7 +25,7 @@ music bot by layer
 !volume
 
 
-2- البكجات الي تحتاجها
+البكجات الي تحتاجها
 npm i discord.js
 
 npm i ytdl-cord
@@ -43,9 +47,11 @@ npm i path
 
 
 
-الشي ثاني:
+الشي ثاني
 
-حقوق البروجكت: layer
+حقوق البروجكت
+
+layer 
 
 by: heal
 
